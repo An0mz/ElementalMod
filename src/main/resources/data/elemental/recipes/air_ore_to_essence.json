@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "elemental:air_ore"
+  },
+  "result": "elemental:air_essence",
+  "experience": 5,
+  "cookingtime": 1000
+}

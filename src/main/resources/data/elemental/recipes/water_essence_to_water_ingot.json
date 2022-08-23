@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "elemental:water_essence"
+    }
+  },
+  "result": {
+    "item": "elemental:water_ingot",
+    "count": 1
+  }
+}

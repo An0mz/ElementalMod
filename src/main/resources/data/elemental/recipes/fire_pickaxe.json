@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " e ",
+    "eNe",
+    " e "
+  ],
+  "key": {
+    "e": {
+      "item": "elemental:fire_ingot"
+    },
+    "N": {
+      "item": "minecraft:netherite_pickaxe"
+    }
+  },
+  "result": {
+    "item": "elemental:fire_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " e ",
+    "eNe",
+    " e "
+  ],
+  "key": {
+    "e": {
+      "item": "elemental:water_ingot"
+    },
+    "N": {
+      "item": "minecraft:netherite_shovel"
+    }
+  },
+  "result": {
+    "item": "elemental:water_shovel",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="idk"
+
+[[mods]]
+modId="elemental"
+version="1.5"
+displayName="Elemental Mod"
+credits="Thanks!"
+authors="Anomz"
+description='''
+Elemental Mod: A mod that add more ores and tool the the game made for 1.16.5
+'''
+
